@@ -18,7 +18,7 @@
 
 ## Data Analytics skills 
 📊 Databases: SQL, MySQL, Relational databases, BigQuery
-📈 Data Visualization: Google Spreadsheets, Dashboards, Data storytelling, Data presenting, PowerPoint, Looker Studio / Tableau / PowerBI
+📈 Data Visualization: Google Spreadsheets, Dashboards, Data storytelling, Data presenting, PowerPoint, Looker Studio 
 🧮 Statistics/Machine Learning: A/B testing, Linear regression, Logistic regression
 🚀Domain Knowledge: Product Analytics, Marketing Analytics, Payments Analytics, Monetization Analytics, Risk Analyst, Financial Analyst
 
